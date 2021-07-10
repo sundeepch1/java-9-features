@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Built-By: sundeep
+Build-Jdk: 15.0.2
+Class-Path: lib/http-1.33.jar lib/simple-5.1.6.jar lib/less4j-1.4.0.jar 
+ lib/antlr-runtime-3.4.jar lib/antlr-2.7.7.jar lib/commons-io-2.3.jar li
+ b/commons-beanutils-1.8.3.jar lib/commons-logging-1.1.1.jar lib/json-20
+ 090211.jar lib/protobuf-java-2.5.0.jar lib/handlebars-1.2.1.jar lib/com
+ mons-lang3-3.1.jar lib/antlr4-runtime-4.1.jar lib/rhino-1.7R4.jar lib/m
+ arkdown4j-2.2-cj-1.0.jar lib/snakeyaml-1.13.jar lib/jackson-databind-2.
+ 3.1.jar lib/jackson-annotations-2.3.0.jar lib/jackson-core-2.3.1.jar li
+ b/slf4j-api-1.7.6.jar lib/slf4j-simple-1.7.6.jar lib/coffee-script-1.7.
+ 0.jar
+Main-Class: com.acme.Server
+Created-By: Maven Integration for Eclipse
+
